@@ -1,3 +1,6 @@
+
+#include <stdio.h>
+
 #include "target.c"
 #include "util.c"
 #include "rsp.c"

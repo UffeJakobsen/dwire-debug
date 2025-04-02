@@ -1,6 +1,10 @@
 // GlobalData.c
 
+#include <stdint.h>
+#include <inttypes.h>
 
+//#include <linux/types.h>
+typedef uint8_t u8;
 
 
 // Current device state
